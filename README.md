@@ -1,2 +1,2 @@
-# golang_in_action
+# GOLANG_IN_ACTION 
 GOLANG LEARNING PROCESS
